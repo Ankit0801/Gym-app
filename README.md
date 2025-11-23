@@ -1,4 +1,4 @@
-# React + Vite + Ankit
+# React + Vite -By Ankit Sarma
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
